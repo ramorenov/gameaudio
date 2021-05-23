@@ -1,4 +1,4 @@
 theme: jekyll-theme-dinky
 title: [Game Audio]
 description: [Audio for games and interactive media]
-show_downloads: [false]
+show_downloads: false
