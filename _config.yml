@@ -1,3 +1,4 @@
 theme: jekyll-theme-dinky
-title: myCustomTitle
-description: myCustomAndDetailedDescription
+title: [Game Audio]
+description: [Audio for games and interactive media]
+show_downloads: ["false"]
