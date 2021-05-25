@@ -1,5 +1,6 @@
 ---
-driveId: 1lvY7N5t3dQlzLSSJcySDip3-pLfBNHRg&type=.mp4
+driveId: 1lvY7N5t3dQlzLSSJcySDip3-pLfBNHRg/preview
+youtubeId: POIllfJsWF4
 ---      
 
 
@@ -10,4 +11,7 @@ El siguiente tutorial muestra un paso a paso para integrar el middleware FMOD st
 {% include googleDrivePlayer.html id=page.driveId %}
 
 
+video youtube
+
+{% include youtubePlayer.html id=page.youtubeId %}
 
