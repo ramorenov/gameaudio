@@ -7,6 +7,11 @@ En esta pagina encontraras algunos contenidos relacionados con audio para videoj
 1. [Instalación de unity](/unityInstall.md)
 2. [Integración de Fmod Studio y Unity](/fmodUnityIntegration.md)
 
+Diseño de eventos sonoros dinámicos con Fmod Studio
+
+1. [Evento sonoro dinámico en FMOD studio](/FMOD/01_Fmod_evento_dinámico.md)
+2. [Musica adaptativa en FMOD studio](/FMOD/02_Fmod_musica_adaptativa.md)
+
 Diseño sonoro de una escena de videojuego en unity con Fmod Studio
 
 1. [Integración de Fmod en escena de unity](/01_IntegracionfmodUnity.md)
